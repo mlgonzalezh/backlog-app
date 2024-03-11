@@ -1,0 +1,7 @@
+INTEGRANTES_PATH: './data/integrantes.csv'
+PROYECTOS_PATH: './data/proyectos.csv'
+TAREAS_PATH: './data/tareas.csv'
+
+BACKLOG_WIDE: 2000
+BACKLOG_HIGH: 3000
+PIXELS_QUOTIENT: 9
