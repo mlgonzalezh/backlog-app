@@ -3,6 +3,8 @@
 ## Descripción
 Backlog App es una aplicación web desarrollada con Streamlit, diseñada para la gestión simple de tareas dentro de proyectos. Esta aplicación permite crear, modificar, visualizar y finalizar tareas asignadas a integrantes de un equipo. Facilita la visión global de las tareas de cada miembro del equipo.
 
+![Alt text](./img/backlog.png)
+
 ## Características
 - **Creación de Tareas**: Permite crear nuevas tareas, dando una descripción, asignándolas a miembros del equipo y asociándolas a proyectos específicos.
 - **Modificación de Tareas**: Se puede modificar tareas existentes para actualizar su estado, su contenido o reasignarlas.
