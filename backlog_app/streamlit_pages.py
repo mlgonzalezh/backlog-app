@@ -96,13 +96,6 @@ def pagina_historico():
         st.write(f"Proyecto: {tarea.proyecto}")
         st.write(f"Fecha de creación: {tarea.fecha_creacion}")
         st.write(f"Fecha de finalización: {tarea.fecha_finalizacion}")
-
-        if st.button('Recuperar'):
-            tarea.reiniciar()
-            backlog.reiniciar(tarea)
-            st.rerun()
-            st.success('Tarea recuperada exitosamente')
-
         st.write('---')
     
     st.write('---')
